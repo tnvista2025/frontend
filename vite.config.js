@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/tnvista25/'   // <-- Repo name path for GitHub Pages
+  base: '/frontend/'   // <-- Repo name path for GitHub Pages
 })
